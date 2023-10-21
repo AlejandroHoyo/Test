@@ -5,8 +5,10 @@
 - Add event
 - Delete event
 - Edit event
+- - Chose whether it is in-person or online
 - Display information about their event schedules
 - Plan events
+- Collect student attendance
 
 # Organizers of divulgative or informative events
 - Add event
