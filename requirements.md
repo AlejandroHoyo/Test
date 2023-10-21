@@ -32,3 +32,12 @@
 
 
 # Event attendees
+* Consult the events available on the calendar for a particular teaching, informational, or informative agenda or board meeting
+* Add the events to their individual calendars in the integrated calendar manager provided by the University
+  * Create the corresponding alarms.
+* Register for a given event as launched by the corresponding organizer
+* Evaluate a given event if the event organizer has enabled the corresponding evaluation mechanisms
+* Request a certificate of attendance for a given event.
+* Perform different queries, parameterizable on the attendance or availability of different events, specific events, or date ranges
+* Request and collect attendance certificates for different types of events
+  * It is desired to give the option to request a certificate for a set of educational events
