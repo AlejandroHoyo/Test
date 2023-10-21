@@ -7,6 +7,9 @@
 * Open event (edit event)
   * Chose whether it is face-to-face or online
     * Geolocate the event if face-to-face
+  * Collect attendance
+    * If online: Pin or QR code will be generated
+    * If in person: Pin, QR or Bluetooth connection
 * Display information about their event schedules
 * Plan events
 * Collect student attendance
