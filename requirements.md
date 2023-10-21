@@ -4,7 +4,7 @@
 # Organizers of educational events
 * Add event
 * Delete event
-* Edit event
+* Open event (edit event)
   * Chose whether it is face-to-face or online
     * Geolocate the event if face-to-face
 * Display information about their event schedules
