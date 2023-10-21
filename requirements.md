@@ -12,7 +12,9 @@
     * If in person: Pin, QR or Bluetooth connection
 * Display information about their event schedules
 * Plan events
-* Collect student attendance
+* Generate attendance certificates
+  * Signed by teacher
+  * Sent through email to student
 
 # Organizers of divulgative or informative events
 * Add event
