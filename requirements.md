@@ -29,7 +29,12 @@
   * To consult the degree of satisfaction of the assistants with a specific event.
 
 # Event managers
-
+* Assign students to a specific course/subject
+* Assign teachers to a given course/subject
+* Generate reports
+  * Of the organizational activity of a given event organizer
+  * On the attendance activity of a specific type of attendees, including statistical data
+  * On the results of quality surveys for a given event.
 
 # Event attendees
 * Consult the events available on the calendar for a particular teaching, informational, or informative agenda or board meeting
