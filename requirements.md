@@ -1,7 +1,7 @@
 # General
 * Login (Depending on the email, the user type is assigned)
 
-# Organizers of educational events & Organizers of divulgative or informative events
+# Organizers of educational events &  divulgative or informative events
 * Add event
 * Delete event
 * Edit event
