@@ -3,6 +3,7 @@
 
 # Organizers of educational events &  divulgative or informative events
 * Add event
+  * Set type as either **Teaching** or **Divulgative**
 * Delete event
 * Edit event
 * Open event
