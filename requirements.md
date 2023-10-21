@@ -1,7 +1,7 @@
 # General
 * Login (Depending on the email, the user type is assigned)
 
-# Organizers of educational events
+# Organizers of educational events & Organizers of divulgative or informative events
 * Add event
 * Delete event
 * Edit event
@@ -26,13 +26,6 @@
   * Consult the average number of attendees at a given event.
   * Consult the lack of attendance of a given student to the different types of events
   * To consult the degree of satisfaction of the assistants with a specific event.
-
-# Organizers of divulgative or informative events
-* Add event
-* Delete event
-* Edit event
-* Display information about their event schedules
-* Plan events
 
 # Event managers
 
