@@ -46,3 +46,7 @@
 * Perform different queries, parameterizable on the attendance or availability of different events, specific events, or date ranges
 * Request and collect attendance certificates for different types of events
   * It is desired to give the option to request a certificate for a set of educational events
+
+# Calendar 
+
+![Calendar](https://github.com/AlejandroHoyo/Test/assets/146176265/3489ee0c-40e4-45fd-be6a-dedfe3f41563)
