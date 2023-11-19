@@ -50,4 +50,5 @@
 # Calendar 
 
 ![Calendar](https://github.com/AlejandroHoyo/Test/assets/146176265/3489ee0c-40e4-45fd-be6a-dedfe3f41563)
-![total_Hours](https://github.com/AlejandroHoyo/Test/assets/146176265/7000bd8c-e8a0-4e98-a1ca-43eed87328cb)
+
+![total_hours](https://github.com/AlejandroHoyo/Test/assets/146176265/06fd80ee-76e2-487a-8e34-04a17b1249b3)
